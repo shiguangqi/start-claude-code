@@ -65,7 +65,7 @@ export CLAUDE_CODE_DISABLE_EXPERIMENTAL_BETAS=1
 ```bash
 ./start.sh --model claude-sonnet-4-20250514
 ./start.sh --model claude-opus-4-20250514
-./start.sh --model claude-haiku-4-5-20241022
+./start.sh --model claude-haiku-4-5-20251001
 ```
 
 ---
